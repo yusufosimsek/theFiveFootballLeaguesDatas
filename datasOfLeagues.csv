@@ -1,0 +1,661 @@
+Country;League;Club;Player Names;Matches_Played;Substitution ;Mins;Goals;xG;xG Per Avg Match;Shots;OnTarget;Shots Per Avg Match;On Target Per Avg Match;Year
+Spain;La Liga;(BET);Juanmi Callejon;19;16;1849;11;Haz.62;0.34;48;20;ﬁub.47;1.Mar;2016
+Spain;La Liga;(BAR);Antoine Griezmann;36;0;3129;16;Kas.86;0.36;88;41;ﬁub.67;Oca.24;2016
+Spain;La Liga;(ATL);Luis Suarez;34;1;2940;28;23.21;0.75;120;57;Mar.88;Oca.84;2016
+Spain;La Liga;(CAR);Ruben Castro;32;3;2842;13;14.Haz;0.47;117;42;Mar.91;1.Nis;2016
+Spain;La Liga;(VAL);Kevin Gameiro;21;10;1745;13;Eki.65;0.58;50;23;ﬁub.72;Oca.25;2016
+Spain;La Liga;(JUV);Cristiano Ronaldo;29;0;2634;25;24.68;0.89;162;60;May.84;ﬁub.16;2016
+Spain;La Liga;(RMA);Karim Benzema;23;6;1967;11;13.25;0.64;69;34;Mar.33;Oca.64;2016
+Spain;La Liga;(PSG);Neymar ;30;0;2694;13;13.33;0.47;105;42;3.Tem;Oca.48;2016
+Spain;La Liga;(CEL);Iago Aspas;25;7;2354;19;13.88;0.56;78;37;Mar.15;Oca.49;2016
+Spain;La Liga;(EIB);Sergi Enrich;31;7;2904;11;Au.25;0.27;64;26;2.Eyl;0.85;2016
+Spain;La Liga;None;Aduriz ;27;5;2480;16;15.92;0.61;85;45;Mar.26;Oca.72;2016
+Spain;La Liga;(HUE);Sandro Ramlrez;28;2;2340;14;Tem.14;0.29;93;38;Mar.78;Oca.54;2016
+Spain;La Liga;(BAR);Lionel Messi;32;2;2910;37;26.65;0.87;179;76;May.84;ﬁub.48;2016
+Spain;La Liga;(VIL);Gerard Moreno;37;0;3361;13;Au.49;0.24;82;32;ﬁub.32;0.9;2016
+Spain;La Liga;(JUV);Morata;14;12;1392;15;Eyl.67;0.66;55;30;Mar.75;2.May;2016
+Spain;La Liga;(MON);Wissam Ben Yedder;20;11;1735;11;Tem.85;0.43;44;23;ﬁub.41;Oca.26;2016
+Spain;La Liga;(SOC);Willian Jose;27;1;2102;12;Au.41;0.38;69;29;3.Ara;Oca.31;2016
+Spain;La Liga;Florin;Andone ;32;5;2984;12;Kas.62;0.37;99;42;Mar.15;Oca.34;2016
+Spain;La Liga;(SOC);Cedric Bakambu;17;9;1633;10;8.Au;0.47;50;26;ﬁub.91;Oca.51;2016
+Spain;La Liga;(RMA);Isco;18;12;1690;10;Mar.91;0.22;32;15;1.Au;0.84;2016
+Italy;Serie A;(LIV);Mohamed Salah;29;2;2567;15;Kas.62;0.43;80;50;ﬁub.96;Oca.85;2016
+Italy;Serie A;(SAS);Gregoire Defrel;23;6;2054;12;8;0.37;43;28;Oca.99;1.Mar;2016
+Italy;Serie A;(LAZ);Ciro Immobile;35;1;3294;22;19.76;0.57;136;98;Mar.92;ﬁub.83;2016
+Italy;Serie A;(VER);Nikola Kalinic;26;6;2648;15;15.May;0.54;90;61;Mar.23;ﬁub.19;2016
+Italy;Serie A;(NAP);Dries Mertens;28;7;2671;28;21.65;0.77;148;102;May.26;Mar.63;2016
+Italy;Serie A;(ATA);Alejandro Gomez;37;0;3247;16;Kas.62;0.34;117;75;Mar.42;ﬁub.19;2016
+Italy;Serie A;(FIO);Jose CallejOn;37;0;3276;14;Kas.38;0.33;86;57;ﬁub.49;Oca.65;2016
+Italy;Serie A;(BEN);Iago Falque;31;4;2633;12;8.Nis;0.29;65;42;ﬁub.35;Oca.52;2016
+Italy;Serie A;(CAG);Giovanni Simeone;29;6;2764;12;Ara.22;0.42;76;35;ﬁub.61;1.ﬁub;2016
+Italy;Serie A;(PSG);Mauro Icardi;34;0;3188;24;19.13;0.57;109;52;Mar.25;Oca.55;2016
+Italy;Serie A;(CRZ);Diego Falcinelli;35;1;3308;13;Kas.49;0.33;99;65;ﬁub.84;Oca.87;2016
+Italy;Serie A;Cyril;Cyril Thereau;31;2;2585;12;Eyl.25;0.34;70;48;ﬁub.57;Oca.76;2016
+Italy;Serie A;(ROM);Edin Dzeko;33;4;3194;29;30.Haz;0.91;178;99;May.29;ﬁub.94;2016
+Italy;Serie A;(NAP);Lorenzo Insigne;35;2;3031;18;13.Au;0.41;147;81;Nis.61;ﬁub.54;2016
+Italy;Serie A;(SAM);Fabio Quagliarella;35;2;3030;12;13.71;0.43;112;70;Mar.51;ﬁub.19;2016
+Italy;Serie A;Marco;Borriello ;30;6;2737;16;Tem.78;0.27;81;51;ﬁub.81;Oca.77;2016
+Italy;Serie A;(VIL);Carlos Bacca;26;6;2228;13;14.Tem;0.6;56;39;ﬁub.39;Oca.66;2016
+Italy;Serie A;(IMI);Gonzalo Higuain;32;6;3138;24;17.84;0.54;134;91;4.Haz;ﬁub.75;2016
+Italy;Serie A;(SAM);Keita Balde;21;10;2033;16;7.Tem;0.36;70;48;Mar.27;ﬁub.24;2016
+Italy;Serie A;(TOR);Andrea Belotti;34;1;3241;26;19.45;0.57;130;78;Mar.81;ﬁub.29;2016
+Germany;Bundesliga;(HKI);Fin Bartels;23;8;2315;8;Haz.34;0.26;42;29;Oca.72;Oca.19;2016
+Germany;Bundesliga;(BMG);Lars Stindl;29;1;2673;11;Au.44;0.3;68;50;ﬁub.42;Oca.78;2016
+Germany;Bundesliga;(BAY);Serge Gnabry;23;4;2028;11;May.76;0.27;62;33;2.Eyl;Oca.55;2016
+Germany;Bundesliga;Sandro;Wagner ;30;1;2695;11;12.ﬁub;0.43;65;35;ﬁub.29;Oca.23;2016
+Germany;Bundesliga;(HOF);Andrej Kramaric;28;6;2449;15;13.41;0.52;99;60;Mar.84;ﬁub.33;2016
+Germany;Bundesliga;(FCA);Florian Niederlechner;29;5;2477;11;Eki.69;0.41;79;56;3.Mar;ﬁub.15;2016
+Germany;Bundesliga;(BAY);Robert Lewandowski;31;2;2871;30;30.52;1.Oca;143;86;Nis.73;ﬁub.85;2016
+Germany;Bundesliga;(RBL);Emil Forsberg;27;3;2420;8;May.86;0.23;49;32;Oca.92;Oca.26;2016
+Germany;Bundesliga;(CHE);Timo Werner;28;3;2496;21;Ara.61;0.48;74;50;ﬁub.82;1.Eyl;2016
+Germany;Bundesliga;(SCF);Nils Petersen;7;26;1351;10;Eyl.24;0.65;52;33;Mar.66;ﬁub.32;2016
+Germany;Bundesliga;(SCH);Vedad Ibisevic;32;0;2772;12;Ara.84;0.44;72;46;ﬁub.47;Oca.58;2016
+Germany;Bundesliga;None;Mario Gomez;32;1;2950;16;18.32;0.59;84;45;ﬁub.71;Oca.45;2016
+Germany;Bundesliga;(WOB);Maximilian Philipp;23;2;2000;9;6.Kas;0.29;53;34;ﬁub.52;Oca.62;2016
+Germany;Bundesliga;(MAI);A¬Ådam Szalai;7;15;833;8;Mar.95;0.45;18;15;2.May;Oca.71;2016
+Germany;Bundesliga;(ARS);Pierre-Emerick Aubameyang;31;1;2894;31;28.94;0.95;116;78;Mar.81;ﬁub.56;2016
+Germany;Bundesliga;(STP);Guido Burgstaller;17;1;1494;9;Au.18;0.52;45;24;ﬁub.86;Oca.53;2016
+Germany;Bundesliga;(UNB);Max Kruse;23;0;2121;15;Au.48;0.38;41;28;Oca.84;Oca.25;2016
+Germany;Bundesliga;(LAG);Chicharito ;20;6;1895;11;Kas.57;0.58;52;30;ﬁub.61;1.May;2016
+Germany;Bundesliga;(KOL);Anthony Modeste;34;0;3075;25;19.74;0.61;101;53;3.Ara;Oca.64;2016
+Germany;Bundesliga;(GRO);Arjen Robben;21;5;1882;13;Nis.95;0.25;83;52;Nis.19;ﬁub.62;2016
+England;Premier League;(INT);Alexis Sanchez;36;2;3385;24;19.24;0.54;129;49;Mar.62;Oca.38;2016
+England;Premier League;(INT);Romelu Lukaku;36;1;3448;25;18.15;0.5;110;53;3.Mar;Oca.46;2016
+England;Premier League;(TOT);Harry Kane;29;1;2636;29;18.87;0.68;110;58;Mar.96;2.Eyl;2016
+England;Premier League;(LEI);Jamie Vardy;33;2;2938;13;Eyl.28;0.3;54;26;Oca.75;0.84;2016
+England;Premier League;(CRY);Christian Benteke;36;0;3299;15;18.Nis;0.53;105;38;3.ﬁub;1.Eyl;2016
+England;Premier League;(ROM);Pedro None;26;9;2250;10;May.68;0.24;59;17;ﬁub.49;0.72;2016
+England;Premier League;(RMA);Eden Hazard;36;0;3101;16;11.Oca;0.34;77;32;ﬁub.36;0.98;2016
+England;Premier League;(LIV);Roberto Firmino;34;1;3228;11;Eki.87;0.32;104;43;3.Haz;Oca.27;2016
+England;Premier League;(LIV);Sadio Mane;26;1;2347;13;Eyl.14;0.37;58;24;ﬁub.35;0.97;2016
+England;Premier League;(BAR);Philippe Coutinho;28;3;2327;13;Eyl.31;0.38;107;36;Nis.37;Oca.47;2016
+England;Premier League;(ATL);Diego Costa;35;0;3232;20;16.67;0.49;111;41;Mar.26;Oca.21;2016
+England;Premier League;(TOT);Dele Alli;35;2;3182;18;15.Tem;0.45;95;43;ﬁub.84;Oca.28;2016
+England;Premier League;(MNC);Sergio Aguero;25;6;2444;21;22.38;0.87;139;51;5.Nis;Oca.98;2016
+England;Premier League;(RAN);Jermain Defoe;37;0;3511;15;15.52;0.42;99;31;ﬁub.68;0.84;2016
+England;Premier League;(NAP);Fernando Llorente;28;5;2562;15;Au.36;0.31;52;25;Oca.93;0.93;2016
+England;Premier League;(WHU);Michail Antonio;29;0;2493;11;Eyl.71;0.37;79;25;3.Oca;0.95;2016
+England;Premier League;(ACM);Zlatan Ibrahimovic;27;1;2578;17;15.74;0.58;115;45;Nis.24;Oca.66;2016
+England;Premier League;(CHE);Olivier Giroud;11;18;1311;12;6.Eyl;0.5;39;20;ﬁub.83;Oca.45;2016
+England;Premier League;(TOT);Son Heung-Min;23;11;2174;14;Tem.32;0.32;80;33;3.May;Oca.44;2016
+England;Premier League;(BOU);Joshua King;31;5;2856;16;Eki.82;0.36;67;29;ﬁub.23;0.96;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Diego Souza;34;0;2981;14;Eki.67;0.34;86;35;ﬁub.74;1.Ara;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Pablo ;30;3;2757;9;Tem.55;0.26;63;24;ﬁub.17;0.83;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Robinho ;26;4;2234;12;8;0.34;49;22;2.Au;0.94;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Kempes ;19;7;1684;9;May.85;0.33;44;21;ﬁub.48;Oca.18;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(MNC);Gabriel Jesus;26;1;2448;12;11.Au;0.43;75;34;ﬁub.91;Oca.32;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Bruno Rangel ;19;12;2016;10;Au.91;0.42;35;17;Oca.65;0.8;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CEA);Rogerio ;22;9;2051;9;Haz.69;0.31;81;28;Mar.75;1.Mar;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Vitor Bueno;32;1;2670;10;Eyl.27;0.33;73;30;2.Haz;1.Tem;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAN);Marinho ;27;0;2360;12;Tem.45;0.3;111;34;Nis.47;Oca.37;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Grafite ;29;2;2511;13;14.Oca;0.53;64;34;ﬁub.42;Oca.29;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(HUR);Andres Chavez;19;2;1786;9;Eki.53;0.56;67;32;Mar.56;1.Tem;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BOT);Cicero Semedo;35;0;3322;9;Eyl.79;0.28;62;27;Oca.77;0.77;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Sassa;13;13;1412;12;Kas.15;0.75;41;25;ﬁub.76;Oca.68;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Giorgian de Arrascaeta;30;1;2423;9;Tem.65;0.3;75;24;ﬁub.94;0.94;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CAM);Keno ;32;2;3093;10;Haz.19;0.19;73;25;ﬁub.24;0.77;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLU);Fred ;33;1;2821;14;13.66;0.46;63;28;2.Ara;0.94;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Kleber Gladiador;23;1;2143;9;Au.35;0.37;50;23;ﬁub.22;1.ﬁub;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Pottker ;19;12;2007;14;Au.66;0.41;61;25;ﬁub.89;Oca.18;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Jonathan Copete;22;3;2147;10;Au.14;0.36;37;17;Oca.64;0.75;2016
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CFC);Ricardo Oliveira;20;0;1834;11;Au.49;0.44;53;25;ﬁub.75;Oca.29;2016
+Spain;La Liga;(GET);Angel Rodriguez;26;7;2390;13;Kas.82;0.47;68;31;2.Tem;Oca.23;2017
+Spain;La Liga;(BAR);Antoine Griezmann;30;2;2596;19;15.58;0.57;72;40;ﬁub.63;Oca.46;2017
+Spain;La Liga;(CEL);Iago Aspas;33;1;3053;22;19.92;0.62;94;43;ﬁub.92;Oca.34;2017
+Spain;La Liga;(TOT);Gareth Bale;20;6;1872;16;Ara.81;0.65;77;32;Mar.91;Oca.62;2017
+Spain;La Liga;None;Rodrigo None;31;6;2770;16;15.45;0.53;92;38;Mar.16;1.Mar;2017
+Spain;La Liga;(ATL);Luis Suarez;32;1;3008;25;25.65;0.81;121;55;Mar.82;Oca.74;2017
+Spain;La Liga;(LEV);Sergio Leon;23;8;2071;11;11.Ara;0.51;65;27;ﬁub.98;Oca.24;2017
+Spain;La Liga;(BAR);Lionel Messi;32;4;3123;33;32.54;0.99;197;95;May.99;ﬁub.89;2017
+Spain;La Liga;(VAL);Maxi Gomez;35;1;3168;18;18.Oca;0.54;83;37;ﬁub.49;1.Kas;2017
+Spain;La Liga;(SOC);Mikel Oyarzabal;31;4;2864;12;Eyl.35;0.31;65;32;ﬁub.16;1.Haz;2017
+Spain;La Liga;(SOC);Willian Josa;32;2;2869;15;13.89;0.46;89;29;ﬁub.95;0.96;2017
+Spain;La Liga;(TOR);Simone Zaza;23;10;2163;13;12.Tem;0.53;73;24;Mar.21;1.May;2017
+Spain;La Liga;(JUV);Cristiano Ronaldo;27;0;2375;26;29;Oca.16;178;76;7.Ara;3.Nis;2017
+Spain;La Liga;(SOC);Portu ;35;2;3081;11;10.Tem;0.33;49;25;Oca.51;0.77;2017
+Spain;La Liga;(VIL);Gerard Moreno;38;0;3555;16;17.96;0.48;105;47;ﬁub.81;Oca.26;2017
+Spain;La Liga;(GIR);Cristhian Stuani;32;1;2785;21;20.52;0.7;74;37;ﬁub.52;Oca.26;2017
+Spain;La Liga;(VIL);Carlos Bacca;30;5;2572;15;14.35;0.53;73;34;2.Tem;Oca.26;2017
+Spain;La Liga;(CEL);Santi Mina;17;15;1630;12;Eyl.44;0.55;43;20;ﬁub.51;Oca.17;2017
+Spain;La Liga;(LEV);Morales ;35;0;3180;10;Eki.71;0.32;61;25;Oca.82;0.75;2017
+Spain;La Liga;(SEV);Munir ;28;5;2517;10;10.Haz;0.4;62;23;ﬁub.34;0.87;2017
+Italy;Serie A;(FIO);Jose Callejon;38;0;3359;10;Eki.25;0.29;64;32;Oca.81;0.91;2017
+Italy;Serie A;(LAZ);Sergej Milinkovic-Savic;33;2;3014;12;Haz.66;0.21;91;34;ﬁub.87;1.Tem;2017
+Italy;Serie A;(ATA);Duvan Zapata;24;7;2229;11;Eyl.39;0.4;57;22;ﬁub.43;0.94;2017
+Italy;Serie A;(JUV);Paulo Dybala;26;7;2407;22;11.Nis;0.45;114;45;4.May;Oca.78;2017
+Italy;Serie A;(IMI);Gonzalo Higuain;32;3;2935;16;12.May;0.39;102;40;3.Mar;Oca.29;2017
+Italy;Serie A;(BAR);Mirco Antenucci;28;5;2735;11;8.Haz;0.28;65;26;ﬁub.26;0.9;2017
+Italy;Serie A;(SAM);Fabio Quagliarella;33;2;2864;19;17.79;0.59;113;46;Mar.75;Oca.53;2017
+Italy;Serie A;(LAZ);Luis Alberto;32;2;2797;11;Haz.77;0.23;81;25;ﬁub.75;0.85;2017
+Italy;Serie A;(PAR);Roberto Inglese;33;1;2914;12;Eyl.82;0.32;76;37;ﬁub.48;Oca.21;2017
+Italy;Serie A;(TOR);Andrea Belotti;29;3;2854;10;Kas.72;0.39;86;28;ﬁub.86;0.93;2017
+Italy;Serie A;(ATA);Josip Ilicic;21;10;2115;11;Au.24;0.37;89;36;4;Oca.62;2017
+Italy;Serie A;(CAG);Giovanni Simeone;36;2;3157;14;13.29;0.4;107;37;Mar.22;1.Kas;2017
+Italy;Serie A;(INT);Ivan Perisic;37;0;3491;11;Eyl.19;0.25;116;38;Mar.16;1.Mar;2017
+Italy;Serie A;(ROM);Edin Dzeko;33;3;3177;16;16.39;0.49;152;56;Nis.55;Oca.67;2017
+Italy;Serie A;(CAG);Leonardo Pavoletti;31;2;2897;11;Kas.28;0.37;87;34;ﬁub.85;1.Kas;2017
+Italy;Serie A;(LAZ);Ciro Immobile;33;0;2799;29;19.15;0.65;110;53;Mar.73;1.Au;2017
+Italy;Serie A;(NAP);Dries Mertens;35;3;3133;18;16.16;0.49;128;47;Mar.88;Oca.43;2017
+Italy;Serie A;(PSG);Mauro Icardi;34;0;3096;29;23.14;0.71;101;53;3.Oca;Oca.63;2017
+Italy;Serie A;(UDI);Kevin Lasagna;26;3;2244;12;Kas.34;0.48;72;31;3.May;Oca.31;2017
+Italy;Serie A;(BEN);Iago Falque;34;3;2950;12;9.Oca;0.29;76;22;ﬁub.45;0.71;2017
+Germany;Bundesliga;(BAY);Robert Lewandowski;24;6;2247;29;26.49;1.Ara;127;54;May.37;ﬁub.28;2017
+Germany;Bundesliga;(SVW);Niclas Fullkrug;26;8;2507;14;Ara.14;0.46;87;33;3.Mar;Oca.25;2017
+Germany;Bundesliga;(STP);Guido Burgstaller;24;8;2447;11;Au.24;0.32;55;25;ﬁub.14;0.97;2017
+Germany;Bundesliga;(BOT);Salomon Kalou;27;4;2272;12;Eyl.33;0.39;50;23;2.Eyl;0.96;2017
+Germany;Bundesliga;(DOR);Thorgan Hazard;33;1;3062;10;Ara.89;0.4;87;33;2.Tem;1.ﬁub;2017
+Germany;Bundesliga;(NAN);Jean-Kevin Augustin;14;11;1330;9;Haz.16;0.44;37;18;ﬁub.64;Oca.29;2017
+Germany;Bundesliga;(BAY);Serge Gnabry;20;2;1555;10;May.57;0.34;49;23;ﬁub.99;Oca.41;2017
+Germany;Bundesliga;(HOF);Andrej Kramaric;22;12;2353;13;Eyl.66;0.39;83;35;Mar.35;Oca.41;2017
+Germany;Bundesliga;(SCF);Nils Petersen;24;8;2362;15;Kas.93;0.48;63;24;ﬁub.53;0.97;2017
+Germany;Bundesliga;None;Sandro Wagner ;18;7;1666;12;10;0.57;55;26;Mar.14;Oca.48;2017
+Germany;Bundesliga;(CHE);Timo Werner;28;4;2596;13;13.39;0.49;95;40;Mar.48;Oca.46;2017
+Germany;Bundesliga;(LEV);Leon Bailey;25;5;2317;9;Tem.56;0.31;76;27;3.Ara;1.Kas;2017
+Germany;Bundesliga;(VfB);Daniel Didavi;26;4;2312;9;Mar.89;0.16;55;19;ﬁub.26;0.78;2017
+Germany;Bundesliga;(FCA);Alfred Finnbogason;22;0;1879;12;11.Au;0.56;51;25;ﬁub.58;Oca.26;2017
+Germany;Bundesliga;(SVW);Davie Selke;19;8;1974;10;8.Oca;0.39;47;22;ﬁub.26;1.Haz;2017
+Germany;Bundesliga;(SCH);Mark Uth;24;7;2279;14;Eyl.84;0.41;54;21;ﬁub.25;0.88;2017
+Germany;Bundesliga;(FCA);Michael Gregoritsch;30;2;2626;13;Eki.78;0.39;92;36;Mar.33;1.Mar;2017
+Germany;Bundesliga;(DOR);Julian Brandt;26;8;2419;9;Haz.37;0.25;43;22;Oca.69;0.86;2017
+Germany;Bundesliga;(MON);Kevin Volland;30;1;2693;14;Au.79;0.31;55;28;Oca.94;0.99;2017
+Germany;Bundesliga;(ARS);Pierre-Emerick Aubameyang;16;0;1480;13;16.36;1.May;58;27;Mar.72;Oca.73;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(OPE);Roger ;19;1;1465;11;Au.64;0.56;47;20;3.May;1.Mar;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CRU);Arthur Caike;34;0;2824;8;Tem.73;0.26;85;25;ﬁub.86;0.84;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BEN);Everton ;14;18;1224;8;Eyl.53;0.74;54;30;Nis.19;ﬁub.33;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Hernanes ;19;0;1222;9;May.27;0.41;52;23;4.Nis;Oca.79;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Luiz Fernando;21;7;1792;9;6.Nis;0.32;54;22;ﬁub.86;Oca.17;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FOR);Wellington Paulista;30;3;2278;9;Eyl.35;0.39;63;30;ﬁub.63;Oca.25;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLU);Fred ;27;2;1865;12;Ara.56;0.64;57;24;2.Eyl;Oca.22;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Santiago Trellez;23;0;1694;10;Tem.67;0.43;53;20;ﬁub.97;1.Ara;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(COR);Jo;34;0;2847;18;16.78;0.56;80;39;ﬁub.67;1.Mar;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SCR);Thiago Neves;30;3;2383;9;Eki.54;0.42;102;51;4.Tem;2.Mar;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Bruno Henrique;28;0;2136;8;Eki.57;0.47;52;24;ﬁub.31;1.Tem;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Dudu ;23;3;1751;10;Haz.82;0.37;45;23;ﬁub.44;Oca.25;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Diego ;24;3;2089;10;Tem.92;0.36;56;22;ﬁub.55;1;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Diego Souza;26;1;1953;11;Kas.72;0.57;74;30;3.Haz;Oca.46;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLU);Lucca ;37;0;2933;13;11.Kas;0.36;96;40;3.Kas;1.Mar;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Henrique Dourado;32;0;2472;19;14.83;0.57;65;37;2.May;Oca.42;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Andre;35;0;2931;16;14.81;0.48;88;34;ﬁub.85;1.Oca;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Edigar Junio ;21;5;1547;12;11.Nis;0.7;49;29;3.Oca;Oca.78;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Junior  Dutra;27;3;2022;9;Eki.43;0.49;75;25;Mar.52;Oca.17;2017
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Luiz Fernando;21;12;1769;9;May.96;0.32;42;16;ﬁub.26;0.86;2017
+Spain;La Liga;(RMA);Karim Benzema;35;1;3072;21;17.46;0.54;104;44;Mar.22;Oca.36;2018
+Spain;La Liga;(VAL);Maxi Gomez;33;2;3148;13;Ara.92;0.39;82;28;ﬁub.47;0.84;2018
+Spain;La Liga;(CEL);Iago Aspas;26;1;2369;20;Ara.47;0.5;69;32;ﬁub.77;Oca.28;2018
+Spain;La Liga;(GET);Jaime Mata;27;7;2569;14;Ara.44;0.46;59;25;ﬁub.18;0.92;2018
+Spain;La Liga;(BIL);Inaki Williams;36;2;3148;12;13.59;0.41;75;33;ﬁub.26;1;2018
+Spain;La Liga;(GIR);Cristhian Stuani;30;2;2897;19;16.47;0.54;77;39;ﬁub.53;Oca.28;2018
+Spain;La Liga;(OSA);Chimy Avila;20;14;2131;10;Tem.63;0.34;88;24;Mar.92;1.Tem;2018
+Spain;La Liga;(ESP);Raul de Tomas;32;1;2964;14;16.22;0.52;115;47;Mar.69;Oca.51;2018
+Spain;La Liga;(ATL);Luis Suarez;31;2;2954;21;24.88;0.8;112;58;3.Haz;Oca.87;2018
+Spain;La Liga;(LEV);Roger ;23;8;1999;13;14.Oca;0.67;71;30;Mar.37;Oca.43;2018
+Spain;La Liga;(SOC);Willian Jose;28;3;2471;12;11.Tem;0.45;55;26;2.Kas;1;2018
+Spain;La Liga;(PSG);Pablo Sarabia;30;3;2877;13;Kas.81;0.39;75;31;ﬁub.48;1.ﬁub;2018
+Spain;La Liga;(SOC);Mikel Oyarzabal;36;1;3300;13;11.Ara;0.32;66;28;1.Eyl;0.81;2018
+Spain;La Liga;(BAR);Antoine Griezmann;37;0;3349;15;14.45;0.41;113;45;Mar.21;Oca.28;2018
+Spain;La Liga;(BET);Borja Iglesias;35;2;3246;17;16.Nis;0.48;90;38;ﬁub.63;1.Kas;2018
+Spain;La Liga;(BAR);Lionel Messi;29;5;2849;36;25.49;0.85;170;87;May.67;2.Eyl;2018
+Spain;La Liga;(GRA);Jorge Molina;28;10;2819;14;Kas.28;0.38;57;23;Oca.92;0.78;2018
+Spain;La Liga;None;Charles;17;17;1861;14;13.91;0.71;63;30;Mar.22;Oca.53;2018
+Spain;La Liga;(MON);Wissam Ben Yedder;31;4;2975;18;17.22;0.55;76;36;ﬁub.43;Oca.15;2018
+Spain;La Liga;(LEV);Morales ;35;2;3381;12;13.52;0.38;65;33;Oca.83;0.93;2018
+Italy;Serie A;(NAP);Arkadiusz Milik;27;8;2560;17;12.Nis;0.46;111;51;4.Ara;Oca.89;2018
+Italy;Serie A;(ATA);Duvan Zapata;32;5;3064;23;18.38;0.57;118;50;Mar.66;Oca.55;2018
+Italy;Serie A;(NAP);Lorenzo Insigne;24;4;2191;10;Eyl.23;0.4;120;37;5.ﬁub;1.Haz;2018
+Italy;Serie A;(JUV);Cristiano Ronaldo;30;1;2857;21;21.65;0.72;177;68;May.89;ﬁub.26;2018
+Italy;Serie A;(LAZ);Ciro Immobile;31;5;3046;15;15.71;0.49;124;49;Mar.87;Oca.53;2018
+Italy;Serie A;(TOR);Andrea Belotti;37;0;3533;15;15.99;0.43;125;47;Mar.36;Oca.26;2018
+Italy;Serie A;(SAM);Fabio Quagliarella;37;0;3269;26;23.Haz;0.67;141;57;4.Oca;Oca.66;2018
+Italy;Serie A;Mario;Mandzukic None;23;2;2125;9;Haz.49;0.29;31;17;Oca.39;0.76;2018
+Italy;Serie A;(ROM);Edin Dzeko;28;5;2741;9;13.56;0.47;131;50;Nis.54;Oca.73;2018
+Italy;Serie A;(NAP);Andrea Petagna;35;1;3196;16;Ara.78;0.38;89;41;ﬁub.65;Oca.22;2018
+Italy;Serie A;(PAR);Roberto Inglese;23;2;2075;9;Tem.86;0.36;47;21;ﬁub.15;0.96;2018
+Italy;Serie A;(ATA);Josip Ilicic;23;8;2262;12;Eyl.29;0.39;101;38;Nis.24;1.Haz;2018
+Italy;Serie A;(SAS);Francesco Caputo;38;0;3641;16;16.Oca;0.42;96;43;2.May;1.Ara;2018
+Italy;Serie A;(CAG);Leonardo Pavoletti;31;1;2903;16;11;0.36;84;33;ﬁub.75;1.Au;2018
+Italy;Serie A;(SAS);Gregoire Defrel;26;10;2388;11;8.Mar;0.33;47;23;Oca.87;0.91;2018
+Italy;Serie A;(NAP);Dries Mertens;23;12;2416;16;Eki.43;0.41;89;39;3.May;Oca.53;2018
+Italy;Serie A;None;Stephan El Shaarawy;23;5;2213;11;Tem.22;0.31;70;30;3;Oca.29;2018
+Italy;Serie A;(PAR);Gervinho ;27;3;2430;11;Haz.91;0.27;44;19;Oca.72;0.74;2018
+Italy;Serie A;(PSG);Mauro Icardi;24;5;2314;11;14.86;0.61;73;29;3;Oca.19;2018
+Italy;Serie A;(BSC);Krzysztof Piatek;34;3;3147;23;17.23;0.52;118;52;Mar.56;Oca.57;2018
+Germany;Bundesliga;(HOF);Andrej Kramaric;28;2;2527;16;19.42;0.73;110;43;Nis.14;Oca.62;2018
+Germany;Bundesliga;(BMG);Alassane Plea;28;6;2613;12;Kas.28;0.41;83;41;3.ﬁub;Oca.49;2018
+Germany;Bundesliga;(CHE);Kai Havertz;33;1;3033;16;Kas.17;0.35;87;42;ﬁub.73;Oca.32;2018
+Germany;Bundesliga;(RMA);Luka Jovic;25;7;2353;17;14.Ara;0.57;97;42;Mar.92;1.Tem;2018
+Germany;Bundesliga;(ACM);Ante Rebic;23;5;2075;11;Eyl.17;0.42;61;28;ﬁub.79;Oca.28;2018
+Germany;Bundesliga;(DOR);Jadon Sancho;26;8;2602;13;Haz.85;0.25;40;21;Oca.46;0.77;2018
+Germany;Bundesliga;(FCA);Alfred Finnbogason;17;1;1385;10;Eki.21;0.7;40;18;ﬁub.74;Oca.23;2018
+Germany;Bundesliga;(KOL);Ondrej Duda;30;2;2661;11;May.88;0.21;54;20;Oca.93;0.71;2018
+Germany;Bundesliga;(VIL);Paco Alcacer;11;15;1312;18;Eyl.39;0.68;52;27;Mar.77;Oca.96;2018
+Germany;Bundesliga;(CHE);Timo Werner;29;1;2582;16;15.49;0.57;107;39;Mar.94;Oca.43;2018
+Germany;Bundesliga;(SCH);Benito Raman;19;11;1781;10;Haz.19;0.33;55;26;ﬁub.93;Oca.39;2018
+Germany;Bundesliga;(MON);Kevin Volland;32;2;2945;14;12.Nis;0.4;87;43;ﬁub.81;Oca.39;2018
+Germany;Bundesliga;(WOB);Wout Weghorst;33;1;3061;17;16.Kas;0.5;73;34;ﬁub.27;1.Haz;2018
+Germany;Bundesliga;(HOF);Ishak Belfodil;20;8;1965;18;Eki.14;0.49;88;36;Nis.25;Oca.74;2018
+Germany;Bundesliga;(DOR);Marco Reus;27;0;2432;17;13.31;0.52;69;33;2.Tem;Oca.29;2018
+Germany;Bundesliga;(MAI);Jean-Philippe Mateta;29;5;2587;14;Kas.71;0.43;97;34;Mar.56;Oca.25;2018
+Germany;Bundesliga;(WHU);Sebastien Haller;23;6;2312;15;Ara.17;0.5;54;26;ﬁub.22;1.Tem;2018
+Germany;Bundesliga;(UNB);Max Kruse;32;0;2975;11;Eyl.39;0.3;91;40;ﬁub.91;Oca.28;2018
+Germany;Bundesliga;(BAY);Robert Lewandowski;33;0;3090;22;29.27;0.9;144;51;Nis.43;Oca.57;2018
+Germany;Bundesliga;(RBL);Yussuf Poulsen;27;4;2556;15;Eki.76;0.4;65;27;ﬁub.42;1;2018
+France;France Ligue 11;(PSG);Angel Di Maria;28;2;2418;12;Eki.44;0.41;97;30;Mar.81;Oca.18;2018
+France;France Ligue 20;(BOR);Remi Oudin;32;5;2719;10;Tem.73;0.27;78;24;ﬁub.73;0.84;2018
+France;France Ligue 2;(ARS);Nicolas Pepe;37;1;3533;22;20.Au;0.54;118;60;Mar.17;Oca.61;2018
+France;France Ligue 12;(CAE);Emiliano Sala;16;3;1434;12;Haz.19;0.41;36;18;ﬁub.38;Oca.19;2018
+France;France Ligue 9;(LIL);Jonathan Bamba;35;3;3190;13;Tem.39;0.22;67;28;2;0.83;2018
+France;France Ligue 15;(REN);M'Baye Niang;19;10;1911;11;Tem.44;0.37;64;25;Mar.18;Oca.24;2018
+France;France Ligue 6;(PSG);Neymar ;16;1;1517;15;Ara.62;0.79;54;25;Mar.38;Oca.57;2018
+France;France Ligue 3;(MNU);Edinson Cavani;20;1;1747;18;16.73;0.91;52;22;ﬁub.83;1.ﬁub;2018
+France;France Ligue 16;(ANG);Stephane Bahoken;31;1;2541;11;Au.56;0.32;66;33;ﬁub.47;Oca.23;2018
+France;France Ligue 14;(SIV);Max Gradel;36;0;3446;11;14.51;0.4;120;42;Mar.31;Oca.16;2018
+France;France Ligue 4;(MAR);Florian Thauvin;30;3;2741;16;Kas.25;0.39;101;35;3.May;Oca.21;2018
+France;France Ligue 1;(PSG);Kylian Mbappe-Lottin;24;5;2488;33;31.17;Oca.19;125;70;Nis.77;ﬁub.67;2018
+France;France Ligue 10;(STE);Wahbi Khazri;32;0;3000;13;Eki.74;0.34;94;36;ﬁub.98;Oca.14;2018
+France;France Ligue 7;(GAL);Falcao ;29;4;2699;15;14.21;0.5;94;41;Mar.31;Oca.44;2018
+France;France Ligue 13;(MPE);Gaetan Laborde;36;1;3115;11;Au.53;0.26;86;27;ﬁub.62;0.82;2018
+France;France Ligue 8;(MPE);Andy Delort;36;0;3263;14;13.May;0.38;119;36;Mar.46;1.May;2018
+France;France Ligue 5;(LYO);Moussa Dembele;21;12;2154;15;14.74;0.65;90;39;Mar.97;Oca.72;2018
+France;France Ligue 19;(LYO);Memphis Depay;29;7;2900;10;13.43;0.44;110;39;3.Haz;Oca.28;2018
+France;France Ligue 18;(STR);Lebo Mothiba;21;14;2154;10;7.Mar;0.31;36;19;Oca.59;0.84;2018
+France;France Ligue 17;(LOK);Francois Kamano;29;8;2698;10;9.Eyl;0.32;82;33;ﬁub.89;Oca.16;2018
+England;Premier League;(CRY);Luka Milivojevic;38;0;3651;12;Kas.15;0.29;57;24;Oca.48;0.62;2018
+England;Premier League;(BOU);Joshua King;34;1;3143;12;13.56;0.41;72;23;ﬁub.18;0.7;2018
+England;Premier League;(MNU);Paul Pogba;34;1;3233;13;15.99;0.47;105;49;3.Eyl;Oca.44;2018
+England;Premier League;(LIV);Mohamed Salah;37;1;3417;22;20.May;0.57;137;63;Mar.81;Oca.75;2018
+England;Premier League;(BUR);Ashley Barnes;26;11;2569;12;13.25;0.49;65;30;2.Nis;1.Kas;2018
+England;Premier League;(WAT);Glenn Murray;30;8;2684;13;Kas.58;0.41;54;21;Oca.91;0.74;2018
+England;Premier League;(EVE);Richarlison ;32;3;2822;14;Kas.88;0.4;83;28;ﬁub.79;0.94;2018
+England;Premier League;(LIV);Sadio Mane;35;1;3236;22;15.33;0.45;87;42;ﬁub.55;Oca.23;2018
+England;Premier League;(NEW);Callum Wilson;29;1;2714;14;14.57;0.51;65;29;ﬁub.28;1.ﬁub;2018
+England;Premier League;(TOT);Son Heung-Min;23;8;2152;12;7.ﬁub;0.31;74;29;Mar.27;Oca.28;2018
+England;Premier League;(TOT);Harry Kane;27;1;2580;17;15.48;0.57;102;46;Mar.76;Oca.69;2018
+England;Premier League;(MNC);Sergio Aguero;31;2;2566;21;19.45;0.72;118;43;Nis.37;Oca.59;2018
+England;Premier League;(RMA);Eden Hazard;32;5;3115;16;Eki.82;0.33;93;43;ﬁub.84;Oca.31;2018
+England;Premier League;(ARS);Pierre-Emerick Aubameyang;30;6;2905;22;21.71;0.71;94;39;3.Tem;Oca.28;2018
+England;Premier League;(EVE);Gylfi Sigurdsson;36;2;3302;13;11.Ara;0.32;86;33;ﬁub.47;0.95;2018
+England;Premier League;(MNC);Raheem Sterling;31;3;2930;17;14.19;0.46;77;38;2.May;Oca.23;2018
+England;Premier League;(LEI);Jamie Vardy;30;4;2886;18;17.62;0.58;79;38;2.Haz;Oca.25;2018
+England;Premier League;(LEI);Ayoze Perez;34;3;3099;12;Tem.83;0.24;55;27;Oca.69;0.83;2018
+England;Premier League;(ARS);Alexandre Lacazette;27;8;2670;14;Kas.52;0.41;81;28;ﬁub.88;1;2018
+England;Premier League;(WOL);Raul Jimenez;36;2;3285;13;15.91;0.46;111;33;Mar.21;0.95;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(LYO);Lucas Paqueta;31;1;2962;10;9.Nis;0.29;95;40;3.May;Oca.28;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BEN);Everton ;24;3;2175;9;Ara.59;0.55;88;38;Mar.84;Oca.66;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(COR);Juan Cazares;25;6;2487;8;May.76;0.22;66;18;ﬁub.52;0.69;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(ALA);Deyverson ;11;15;1367;9;Tem.63;0.53;41;19;ﬁub.85;Oca.32;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Pablo ;30;3;2808;12;Eki.94;0.37;64;29;ﬁub.17;0.98;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Leandro Damiao ;19;7;3236;10;13.28;0.39;67;27;Oca.97;0.79;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(VDG);Yago Pikachu;34;1;3192;10;11.Eyl;0.33;77;37;ﬁub.29;1.Oca;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(RMA);Rodrygo ;30;5;2850;8;8.Oca;0.27;52;23;Oca.73;0.77;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SJE);Andres Rios;23;5;2188;7;Tem.37;0.32;43;18;Oca.87;0.78;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Roger Guedes ;11;1;1081;9;Haz.14;0.54;42;20;Mar.69;Oca.76;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Leandro Pereira ;26;8;2575;11;10.Mar;0.37;80;33;ﬁub.95;Oca.22;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Diego Souza;32;0;4177;11;Kas.43;0.26;51;21;Oca.16;0.48;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Pedro ;19;0;1689;9;9.Tem;0.51;56;18;Mar.15;1.Oca;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(TIG);Nico Lupez;26;9;3931;11;Au.69;0.21;79;33;Oca.91;0.8;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLU);Nene ;29;6;2636;8;Tem.49;0.27;58;20;2.Eyl;0.72;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CFC);Ricardo Oliveira;35;0;3231;13;16.67;0.49;92;41;ﬁub.71;Oca.21;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BAH);Gilberto ;18;3;1623;8;7;0.41;52;17;3.Nis;1;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;Bruno;Henrique ;27;6;2595;9;Nis.37;0.16;46;15;Oca.68;0.55;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(PAL);Willian ;21;11;2153;10;10.ﬁub;0.45;66;29;ﬁub.91;Oca.28;2018
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Gabriel Barbosa;34;1;3140;18;19.17;0.58;94;40;ﬁub.84;Oca.21;2018
+USA;MLS;(LAF);Diego Rossi;35;1;3277;17;12.Tem;0.35;113;50;Mar.28;Oca.45;2019
+USA;MLS;(ATA);Josef Martinez;32;0;3050;28;25.Nis;0.78;128;52;Mar.99;Oca.62;2019
+USA;MLS;(ACM);Zlatan Ibrahimovic;31;0;2998;31;22.72;0.72;159;67;5.Nis;2.Ara;2019
+USA;MLS;(SJE);Chris Wondolowski;24;8;2169;15;14.61;0.64;79;33;Mar.46;Oca.45;2019
+USA;MLS;(ORL);Nani ;26;4;2464;12;Au.82;0.34;64;25;ﬁub.47;0.96;2019
+USA;MLS;(PHI);Kacper Przybylko;25;1;2420;15;Ara.23;0.48;81;37;Mar.18;Oca.45;2019
+USA;MLS;(MIN);Kei Kamara;29;0;2740;14;17.59;0.61;94;44;Mar.26;Oca.53;2019
+USA;MLS;(CHF);C.J. Sapong;29;3;2734;13;Kas.22;0.39;63;25;ﬁub.19;0.87;2019
+USA;MLS;(CCR);Gyasi Zardes;28;0;2657;13;15.Oca;0.54;62;26;ﬁub.22;0.93;2019
+USA;MLS;(NYC);Heber ;18;5;1742;15;Kas.37;0.62;56;26;3.May;Oca.42;2019
+USA;MLS;(HDY);Mauro Manotas;28;4;2717;13;14.Oca;0.49;92;29;Mar.22;1.Oca;2019
+USA;MLS;(COL);Brian Fernandez;16;3;1555;11;Au.18;0.5;69;30;Nis.22;Oca.83;2019
+USA;MLS;(TOR);Alejandro Pozuelo;32;2;3104;14;9.Au;0.3;84;38;ﬁub.57;Oca.16;2019
+USA;MLS;(SKC);Felipe Gutierrez;31;1;2905;12;Eyl.48;0.31;65;28;ﬁub.13;0.92;2019
+USA;MLS;(SOU);Jordan Morris;28;2;2521;13;Eyl.55;0.36;48;24;Oca.81;0.9;2019
+USA;MLS;(SOU);Raul Ruidiaz;24;2;2346;15;15.31;0.62;96;37;Mar.89;1.May;2019
+USA;MLS;(TOR);Jozy Altidore;18;5;1834;12;Au.69;0.45;51;25;ﬁub.64;Oca.29;2019
+USA;MLS;(LAF);Carlos Vela;33;0;3128;36;25.35;0.77;167;75;5.Tem;ﬁub.28;2019
+USA;MLS;(VID);Nemanja Nikolic;25;6;2118;12;14.May;0.63;48;22;ﬁub.15;0.99;2019
+USA;MLS;(NYC FC);Alexandru Mitrita;25;5;2398;12;7.Tem;0.28;96;34;3.Au;Oca.35;2019
+Spain;La Liga;(ATL);Luis Suarez;22;6;2126;16;14.32;0.64;79;42;Mar.53;Oca.88;2019
+Spain;La Liga;(RMA);Karim Benzema;36;1;3207;21;21.61;0.64;124;59;Mar.67;Oca.75;2019
+Spain;La Liga;(ALA);Joselu;31;5;2990;11;13.22;0.42;87;30;ﬁub.76;0.95;2019
+Spain;La Liga;(SEV);Carlos Fernandez;21;13;2428;10;Eki.48;0.41;47;19;Oca.84;0.74;2019
+Spain;La Liga;(OSA);Ante Budimir;33;2;2923;13;Ara.31;0.4;56;22;Oca.82;0.72;2019
+Spain;La Liga;(SOC);Mikel Oyarzabal;36;1;3247;10;Au.89;0.26;62;22;Oca.81;0.64;2019
+Spain;La Liga;(SOC);Willian Jose;24;13;2171;11;13.Mar;0.57;59;19;ﬁub.58;0.83;2019
+Spain;La Liga;(VIL);Gerard Moreno;33;2;2831;18;16.Eyl;0.54;89;34;ﬁub.99;Oca.14;2019
+Spain;La Liga;(ALA);Lucas Perez;29;5;2673;11;Kas.25;0.4;48;18;Oca.71;0.64;2019
+Spain;La Liga;(BET);Loren Moron;21;15;2222;10;9.Ara;0.39;52;18;ﬁub.22;0.77;2019
+Spain;La Liga;(BIL);Raul Garcla;33;2;3034;15;Ara.77;0.4;81;33;ﬁub.54;1.Mar;2019
+Spain;La Liga;(JUV);Morata ;25;9;2248;12;17.27;0.73;69;30;ﬁub.92;Oca.27;2019
+Spain;La Liga;(GET);Angel Rodriguez;9;23;1611;10;Au.14;0.48;53;23;Mar.13;Oca.36;2019
+Spain;La Liga;(BAR);Lionel Messi;32;1;3067;25;21.63;0.67;159;68;Nis.93;2.Kas;2019
+Spain;La Liga;(RMA);Sergio Ramos;35;0;3100;11;11.Eyl;0.34;39;17;1.ﬁub;0.52;2019
+Spain;La Liga;(SEV);Lucas Ocampos;31;2;2929;14;13.26;0.43;84;36;ﬁub.72;Oca.17;2019
+Spain;La Liga;Santi;Cazorla ;29;6;2513;11;Au.73;0.33;49;24;Oca.85;0.91;2019
+Spain;La Liga;(LEV);Roger ;26;10;2436;11;Kas.54;0.45;57;24;ﬁub.22;0.94;2019
+Spain;La Liga;(GET);Jaime Mata;33;1;2923;11;12;0.39;58;23;Oca.89;0.75;2019
+Spain;La Liga;(CEL);Iago Aspas;37;0;3474;14;15.72;0.43;84;39;2.Mar;1.Tem;2019
+Portugal ;Primeira Liga;(LIS);Pote ;7;0;631;9;ﬁub.99;0.45;21;13;Mar.16;Oca.96;2019
+Portugal ;Primeira Liga;None;Tiquinho Soares;20;10;1867;10;Eyl.43;0.48;55;21;2.Au;1.Tem;2019
+Portugal ;Primeira Liga;(FAR);Eduardo Mancha;4;0;396;2;0.96;0.23;5;2;1.ﬁub;0.48;2019
+Portugal ;Primeira Liga;(BRA);Paulinho ;27;2;2451;17;14.96;0.58;89;38;Mar.45;Oca.47;2019
+Portugal ;Primeira Liga;None;Alex Telles;28;3;2732;11;8.May;0.28;39;17;Oca.36;0.59;2019
+Portugal ;Primeira Liga;(BRA);Bruno Viana;8;0;780;2;Oca.31;0.16;7;2;0.85;0.24;2019
+Portugal ;Primeira Liga;(AVE);Mehrdad Mohammadi;27;1;2495;8;Tem.35;0.28;56;19;ﬁub.13;0.72;2019
+Portugal ;Primeira Liga;(FAM);Carlos Valenzuela;7;1;575;2;1.Mar;0.17;10;3;Oca.65;0.5;2019
+Portugal ;Primeira Liga;(FAM);Ruben Lameiras;7;0;624;4;Mar.42;0.52;15;9;ﬁub.28;Oca.37;2019
+Portugal ;Primeira Liga;(POR);Moussa Marega;27;2;2471;12;Tem.28;0.28;58;33;ﬁub.23;Oca.27;2019
+Portugal ;Primeira Liga;(BEN);Gian-Luca Waldschmidt;7;1;605;4;Mar.57;0.56;15;6;ﬁub.36;0.94;2019
+Portugal ;Primeira Liga;(GIL);Samuel Lino;6;1;591;3;ﬁub.18;0.35;16;5;ﬁub.57;0.8;2019
+Portugal ;Primeira Liga;(VGU);Andre Andre;8;0;645;2;1.Tem;0.25;7;2;1.Mar;0.29;2019
+Portugal ;Primeira Liga;(POR);Mehdi Taremi;26;4;2537;18;16.82;0.63;74;30;ﬁub.77;1.Ara;2019
+Portugal ;Primeira Liga;(TOT);Carlos Vinicius;19;13;1928;18;Ara.38;0.61;66;27;Mar.25;Oca.33;2019
+Portugal ;Primeira Liga;(POR);Sergio Oliveira;7;1;642;4;2.Eyl;0.31;17;8;ﬁub.52;Oca.18;2019
+Portugal ;Primeira Liga;(FER);Douglas Tanque;23;6;2054;11;Tem.57;0.35;72;24;Mar.33;1.Kas;2019
+Portugal ;Primeira Liga;None;Fabio Abreu;27;7;2570;13;11.Eyl;0.41;53;23;Oca.96;0.85;2019
+Portugal ;Primeira Liga;(NAC);Brayan Riascos;8;0;736;3;ﬁub.17;0.28;26;11;Mar.36;Oca.42;2019
+Portugal ;Primeira Liga;None;Alex Telles ;3;0;280;2;ﬁub.36;0.8;9;5;3.May;1.Tem;2019
+Portugal ;Primeira Liga;None;Fabio Martins;29;0;2633;12;Eyl.15;0.33;69;36;ﬁub.49;1.Mar;2019
+Portugal ;Primeira Liga;(BEN);Haris  Seferovic;2;5;337;6;Mar.33;0.94;12;7;Mar.38;Oca.97;2019
+Portugal ;Primeira Liga;(FER);Douglas Tanque;7;0;644;2;ﬁub.51;0.37;25;9;Mar.69;Oca.33;2019
+Portugal ;Primeira Liga;(FEY);Joao Teixeira;14;7;1416;8;Mar.58;0.24;34;14;ﬁub.28;0.94;2019
+Portugal ;Primeira Liga;(MNU);Bruno Fernandes;17;0;1656;8;May.58;0.32;60;23;Mar.44;Oca.32;2019
+Portugal ;Primeira Liga;(BOA);Angel Gomes;6;0;530;3;1.Ara;0.2;12;3;ﬁub.15;0.54;2019
+Portugal ;Primeira Liga;(POR);Toni Mart√É¬≠nez;27;5;2312;10;Eki.46;0.43;74;29;3.Nis;Oca.19;2019
+Portugal ;Primeira Liga;(BEN);Pizzi ;33;1;2981;18;15.69;0.5;83;39;ﬁub.65;Oca.24;2019
+Portugal ;Primeira Liga;(MIJ);Bozhidar Kraev;28;4;2399;8;Nis.55;0.18;46;19;Oca.82;0.75;2019
+Portugal ;Primeira Liga;None;Sandro Lima;29;3;2747;10;10.Ara;0.35;66;31;ﬁub.28;1.Tem;2019
+Portugal ;Primeira Liga;(MAR);Rodrigo Pinho;18;9;1732;9;Haz.56;0.36;48;22;ﬁub.63;Oca.21;2019
+Portugal ;Primeira Liga;(MAR);Rodrigo Pinho;7;1;646;6;3.Haz;0.45;17;8;2.May;Oca.18;2019
+Portugal ;Primeira Liga;(SAN);Thiago Santana;8;0;714;6;Mar.31;0.44;24;12;Mar.19;1.Haz;2019
+Portugal ;Primeira Liga;(BEN);Everton ;8;0;622;2;1.May;0.16;11;7;Oca.68;1.Tem;2019
+Portugal ;Primeira Liga;(BAR);Trincao ;17;10;1749;8;4.Haz;0.25;47;19;ﬁub.55;1.Mar;2019
+Portugal ;Primeira Liga;(LIS);Andraz Sporar;3;4;356;2;Mar.41;0.91;14;7;Mar.74;Oca.87;2019
+Portugal ;Primeira Liga;(BRA);Ricardo Horta;31;2;2750;12;Au.97;0.31;93;37;Mar.21;Oca.28;2019
+Portugal ;Primeira Liga;(VGU);Bruno Duarte;6;1;509;2;Oca.77;0.33;13;3;ﬁub.43;0.56;2019
+Portugal ;Primeira Liga;(LIS);Nuno Santos;6;2;567;3;Oca.55;0.26;10;5;Oca.68;0.84;2019
+Portugal ;Primeira Liga;(VGU);Bruno Duarte;18;6;1684;8;5.May;0.31;42;16;ﬁub.37;0.9;2019
+Italy;Serie A;(NAP);Arkadiusz Milik;19;7;1870;11;Eyl.45;0.48;68;29;Mar.45;Oca.47;2019
+Italy;Serie A;(INT);Romelu Lukaku;33;3;3156;23;18.94;0.57;99;47;ﬁub.98;Oca.41;2019
+Italy;Serie A;(Sassuolo );Francesco Caputo;33;3;3125;21;13.82;0.42;73;35;ﬁub.22;1.Haz;2019
+Italy;Serie A;(ROM);Edin Dzeko;31;4;3075;16;19.74;0.61;122;46;Mar.77;Oca.42;2019
+Italy;Serie A;(NAP);Andrea Petagna;33;3;3263;12;13.74;0.4;110;33;3.ﬁub;0.96;2019
+Italy;Serie A;(JUV);Cristiano Ronaldo;33;0;3127;31;27.32;0.83;208;79;Haz.32;2.Nis;2019
+Italy;Serie A;(SAS);Domenico Berardi;29;2;2654;14;10.Eyl;0.39;120;46;4.Mar;Oca.65;2019
+Italy;Serie A;(CAG);Joao Pedro;35;1;3394;18;13.93;0.39;87;37;ﬁub.44;1.Nis;2019
+Italy;Serie A;(ATA);Josip Ilicic;21;5;1786;15;Eyl.78;0.52;81;36;Nis.31;Oca.91;2019
+Italy;Serie A;None;Andreas Cornelius;17;9;1637;12;Haz.38;0.37;46;20;ﬁub.67;Oca.16;2019
+Italy;Serie A;(CAG);Giovanni Simeone;34;3;3115;12;11.Au;0.36;87;30;ﬁub.65;0.91;2019
+Italy;Serie A;(LAZ);Ciro Immobile;36;1;3371;36;26.61;0.75;142;71;4;2;2019
+Italy;Serie A;(LEC);Marco Mancosu;28;5;2627;14;15.21;0.55;84;31;3.Nis;1.Ara;2019
+Italy;Serie A;(ATA);Duvan Zapata;25;3;2143;18;15.Kas;0.67;89;37;Mar.95;Oca.64;2019
+Italy;Serie A;(INT);Lautaro Martrinez;29;6;2581;14;14.Nis;0.53;125;44;4.Haz;Oca.62;2019
+Italy;Serie A;(ATA);Luis Muriel;10;23;1370;18;12.Nis;0.86;77;41;May.34;ﬁub.84;2019
+Italy;Serie A;(SAM);Fabio Quagliarella;26;2;2413;11;13.72;0.54;102;35;4.ﬁub;Oca.38;2019
+Italy;Serie A;(BEN);Gianluca Lapadula;20;5;1906;11;Eyl.43;0.47;61;24;3.Nis;1.ﬁub;2019
+Italy;Serie A;(ACM);Ante Rebic;15;11;1514;11;Haz.85;0.43;42;20;ﬁub.64;Oca.25;2019
+Italy;Serie A;(TOR);Andrea Belotti;34;2;3214;16;16.58;0.49;104;41;3.Tem;Oca.21;2019
+Germany;Bundesliga;(DOR);Jadon Sancho;25;7;2387;17;9.Au;0.39;52;28;2.Tem;1.Kas;2019
+Germany;Bundesliga;(CHE);Timo Werner;33;1;2744;28;20.Au;0.72;123;63;Nis.26;ﬁub.18;2019
+Germany;Bundesliga;(WOB);Wout Weghorst;30;2;2893;16;18.27;0.6;85;38;ﬁub.79;Oca.25;2019
+Germany;Bundesliga;(HOF);Andrej Kramaric;14;5;1502;12;Eyl.33;0.59;43;23;ﬁub.72;Oca.45;2019
+Germany;Bundesliga;(DOR);Marco Reus;18;1;1561;11;Au.54;0.52;47;24;ﬁub.86;Oca.46;2019
+Germany;Bundesliga;(CHE);Kai Havertz;29;1;2586;12;Eyl.53;0.35;59;26;ﬁub.17;0.96;2019
+Germany;Bundesliga;(BMG);Marcus Thuram;28;3;2296;10;Eki.15;0.42;56;36;ﬁub.32;Oca.49;2019
+Germany;Bundesliga;(DUS);Rouwen Hennings;27;5;2592;15;Eki.91;0.4;73;27;ﬁub.68;0.99;2019
+Germany;Bundesliga;(BAY);Robert Lewandowski;31;0;2783;34;31.May;1.Haz;138;67;Nis.71;ﬁub.29;2019
+Germany;Bundesliga;(FRA);Andre Silva;16;9;1694;12;10.Tem;0.6;55;21;3.Au;Oca.18;2019
+Germany;Bundesliga;(FCA);Florian Niederlechner;31;2;2846;13;13.18;0.44;78;40;2.Haz;Oca.34;2019
+Germany;Bundesliga;(DOR);Erling Haaland;11;4;1116;12;Tem.64;0.65;34;19;ﬁub.89;Oca.62;2019
+Germany;Bundesliga;(BSC);Jhon Cordoba;23;6;2108;13;Au.88;0.4;61;25;ﬁub.75;Oca.13;2019
+Germany;Bundesliga;(MON);Kevin Volland;24;3;2159;10;Kas.59;0.51;78;32;Mar.43;Oca.41;2019
+Germany;Bundesliga;(SCF);Nils Petersen;24;10;2595;11;Au.47;0.31;55;19;2.Oca;0.7;2019
+Germany;Bundesliga;(BMG);Lars Stindl;14;11;1518;9;Tem.19;0.45;33;15;2.Tem;0.94;2019
+Germany;Bundesliga;(MAI);Robin Quaison;31;1;2718;13;12.ﬁub;0.42;71;28;ﬁub.48;0.98;2019
+Germany;Bundesliga;(BAY);Serge Gnabry;26;5;2216;12;13.Mar;0.57;95;40;4.Tem;Oca.71;2019
+Germany;Bundesliga;(KOL);Sebastian Andersson;31;2;2813;12;13.62;0.46;65;37;2.ﬁub;Oca.25;2019
+Germany;Bundesliga;(BMG);Alassane Plea;25;2;2252;10;Kas.62;0.49;77;35;Mar.25;Oca.48;2019
+France;France Ligue 7;(PSG);Neymar ;15;0;1396;12;15.87;1.Au;71;36;Nis.83;ﬁub.45;2019
+France;France Ligue 13;(MAR);Dimitri Payet;22;0;2057;9;May.85;0.27;63;26;ﬁub.91;1.ﬁub;2019
+France;France Ligue 6;(PSG);Mauro Icardi;14;6;1353;12;12.Kas;0.85;36;20;ﬁub.53;1.Nis;2019
+France;France Ligue 15;(LYO);Memphis Depay;12;1;1077;9;Nis.53;0.4;48;21;Nis.23;Oca.85;2019
+France;France Ligue 9;(NIC);Kasper Dolberg;22;1;1994;11;Tem.77;0.37;42;25;2;Oca.19;2019
+France;France Ligue 11;(REN);M'Baye Niang;24;2;2276;10;Au.15;0.34;66;30;ﬁub.75;Oca.25;2019
+France;France Ligue 20;(STR);Adrien Thomasson;24;1;2168;7;May.25;0.23;50;18;ﬁub.19;0.79;2019
+France;France Ligue 12;(MPE);Andy Delort;26;0;2409;9;10.Eyl;0.43;84;29;Mar.31;Oca.14;2019
+France;France Ligue 8;(MAR);Dario Benedetto;25;1;2214;11;Au.86;0.38;61;27;ﬁub.62;Oca.16;2019
+France;France Ligue 2;(MON);Wissam Ben Yedder;25;1;2321;18;Ara.95;0.53;64;36;ﬁub.62;Oca.47;2019
+France;France Ligue 19;(STR);Ludovic Ajorque;24;2;2163;8;6.Haz;0.29;50;22;2.ﬁub;0.97;2019
+France;France Ligue 14;(LEI);Islam Slimani;14;4;1378;9;8.Tem;0.6;53;20;Mar.65;Oca.38;2019
+France;France Ligue 17;(REN);Adrien Hunou;13;10;1325;8;Tem.25;0.52;28;15;2.Oca;1.Au;2019
+France;France Ligue 10;(STE);Denis Bouanga;23;3;2173;10;Eyl.38;0.41;78;37;Mar.41;Oca.62;2019
+France;France Ligue 16;(REN);Sehrou Guirassy;23;0;2030;9;Au.55;0.4;45;19;2.Kas;0.89;2019
+France;France Ligue 18;(PSG);√É¬Ångel Di Maria;23;3;2106;8;Eyl.98;0.45;74;24;Mar.34;1.Au;2019
+France;France Ligue 3;(LYO);Moussa Dembele;24;3;2358;16;Kas.42;0.46;56;26;ﬁub.26;1.May;2019
+France;France Ligue 5;(STR);Habib Diallo;26;0;2344;12;Eyl.13;0.37;83;34;Mar.36;Oca.38;2019
+France;France Ligue 1;(PSG);Kylian Mbappe-Lottin;17;3;1611;18;17.98;1.Haz;87;49;May.13;ﬁub.89;2019
+France;France Ligue 4;(NAP);Victor Osimhen;25;2;2434;13;14.86;0.58;86;35;Mar.36;Oca.37;2019
+England;Premier League;(EVE);Dominic Calvert-Lewin;30;6;2849;13;16.19;0.54;85;38;ﬁub.83;Oca.27;2019
+England;Premier League;(WOL);Raul Jimenez;37;1;3445;17;18.49;0.51;118;43;Mar.25;Oca.19;2019
+England;Premier League;(MNC);Kevin De Bruyne;32;3;2984;13;Tem.22;0.23;99;31;Mar.15;0.99;2019
+England;Premier League;(LEI);Jamie Vardy;34;1;3271;23;19.28;0.56;89;42;ﬁub.58;Oca.22;2019
+England;Premier League;(MNC);Raheem Sterling;30;3;2836;20;20.Mar;0.68;99;38;Mar.32;Oca.27;2019
+England;Premier League;(LIV);Sadio Mane;31;4;2933;18;14.51;0.47;77;36;ﬁub.49;Oca.17;2019
+England;Premier League;(BUR);Chris Wood;29;3;2616;14;17.Tem;0.62;65;29;ﬁub.36;1.May;2019
+England;Premier League;(MNU);Anthony Martial;31;1;2788;17;Kas.74;0.4;80;39;ﬁub.73;Oca.33;2019
+England;Premier League;(MNC);Riyad Mahrez;21;12;2130;11;Tem.62;0.34;74;31;3.Mar;Oca.38;2019
+England;Premier League;(TOT);Son Heung-Min;28;2;2663;11;Eyl.25;0.33;81;38;ﬁub.89;Oca.36;2019
+England;Premier League;(MNU);Marcus Rashford;31;0;2826;17;19.93;0.67;95;44;Mar.19;Oca.48;2019
+England;Premier League;(LIV);Mohamed Salah;33;1;3045;19;20.51;0.64;132;59;4.Ara;Oca.84;2019
+England;Premier League;(MNC);Gabriel Jesus;21;13;2209;14;20.69;0.89;101;46;Nis.34;Oca.98;2019
+England;Premier League;(SOU);Danny Ings;32;6;3009;22;16.79;0.53;93;37;ﬁub.94;Oca.17;2019
+England;Premier League;(ARS);Pierre-Emerick Aubameyang;35;1;3392;22;16.Tem;0.45;93;42;2.Haz;Oca.18;2019
+England;Premier League;(TOT);Harry Kane;29;0;2801;18;Ara.97;0.44;81;37;ﬁub.75;Oca.25;2019
+England;Premier League;(EVE);Richarlison  ;36;0;3289;13;Eki.73;0.31;90;32;2.Haz;0.92;2019
+England;Premier League;(NOR);Teemu Pukki;33;3;3087;11;Kas.37;0.35;80;35;ﬁub.46;1.Au;2019
+England;Premier League;(CHE);Tammy Abraham;25;9;2380;15;19.29;0.77;88;35;Mar.51;1.Nis;2019
+England;Premier League;(MNC);Sergio Aguero;18;6;1566;16;15.May;0.94;76;27;Nis.61;Oca.64;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Dudu ;34;2;3313;9;Eyl.42;0.27;95;38;ﬁub.72;1.Eyl;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(INT);Thiago Galhardo;31;3;2901;12;14.35;0.47;80;32;ﬁub.62;1.May;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(INT);Paolo Guerrero;23;1;2193;10;Eki.85;0.47;81;33;Mar.51;Oca.43;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Pepe;14;18;1836;8;8.Tem;0.45;46;16;ﬁub.38;0.83;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;Bruno;Henrique ;33;1;3149;10;Nis.97;0.15;58;22;Oca.75;0.66;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Giorgian de Arrascaeta;22;1;1929;12;Eyl.34;0.46;47;19;ﬁub.31;0.94;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAN);Marinho ;18;11;1917;8;Haz.66;0.33;73;26;Mar.62;Oca.29;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BEN);Everton ;23;7;2498;11;9.ﬁub;0.35;83;32;Mar.16;Oca.22;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BAH);Gilberto ;27;5;2524;14;15.94;0.6;80;31;3.Oca;Oca.17;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Michael ;35;0;3180;10;Eyl.37;0.28;80;32;ﬁub.39;0.96;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAN);Carlos Sanchez;27;7;2648;12;Kas.99;0.43;85;29;3.May;1.Nis;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;None;Everaldo ;33;0;3233;14;13.27;0.39;116;39;Mar.41;Oca.15;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(RBB);Artur ;32;0;3049;7;May.78;0.18;64;19;Oca.99;0.59;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Gabriel Barbosa;29;0;2716;25;24.59;0.86;117;62;4.Eyl;ﬁub.17;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FOR);Wellington Paulista;28;3;2650;13;13.67;0.49;66;29;ﬁub.37;1.Nis;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Bruno Henrique;29;4;2822;21;21.Eyl;0.71;98;46;3.Mar;Oca.55;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(chongqing dangdai lifan f.c);Marcelo  Cirino;19;10;2062;9;Eyl.33;0.43;51;17;ﬁub.35;0.78;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAN);Yeferson Soteldo;31;1;2883;9;8.Au;0.29;68;26;ﬁub.24;0.86;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CAM);Eduardo Sasha;34;3;3181;14;14.Haz;0.42;77;36;2.Mar;1.Au;2019
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GOI);Rafael Moura;19;4;1661;9;Au.22;0.47;48;14;ﬁub.75;0.8;2019
+ Netherlands;Eredivisie;(AJA);Antony None;8;1;575;4;Oca.63;0.27;20;8;3.Mar;Oca.32;2019
+ Netherlands;Eredivisie;(AJA);Quincy Promes;4;6;574;4;2.Eyl;0.48;22;10;Mar.64;Oca.66;2019
+ Netherlands;Eredivisie;(AJA);Dusan Tadic;9;1;719;7;Nis.24;0.56;20;13;ﬁub.64;Oca.72;2019
+ Netherlands;Eredivisie;(VIT);Armando Broja;6;4;569;5;ﬁub.52;0.42;12;6;2;1;2019
+ Netherlands;Eredivisie;(FEY);Steven Berghuis;10;0;896;9;Au.77;0.93;39;21;Nis.14;ﬁub.23;2019
+ Netherlands;Eredivisie;(EMM);Michael de Leeuw;8;0;723;5;ﬁub.89;0.38;15;7;Oca.97;0.92;2019
+ Netherlands;Eredivisie;(VIT);Lois Openda;10;0;775;5;ﬁub.94;0.36;28;9;Mar.43;1.Oca;2019
+ Netherlands;Eredivisie;(TWE);Danilo Nome;10;0;827;9;7.May;0.81;31;16;Mar.56;Oca.84;2019
+ Netherlands;Eredivisie;(SPR);Lennart Thy;10;0;768;6;Nis.37;0.54;20;11;ﬁub.47;Oca.36;2019
+ Netherlands;Eredivisie;(PSV);Donyell Malen;7;3;725;6;6.Kas;0.8;32;17;Nis.19;ﬁub.23;2019
+ Netherlands;Eredivisie;(PSV);Noni Madueke;3;7;524;4;ﬁub.87;0.52;17;7;3.Au;Oca.27;2019
+ Netherlands;Eredivisie;(AJA);Davy Klaassen;6;0;490;5;4.ﬁub;0.78;13;8;ﬁub.52;Oca.55;2019
+ Netherlands;Eredivisie;(VIT);Oussama Tannane;8;0;680;4;ﬁub.65;0.37;40;9;May.59;Oca.26;2019
+ Netherlands;Eredivisie;(TWE);Vaclav Cerny;10;0;824;4;Oca.39;0.16;21;12;ﬁub.42;Oca.38;2019
+ Netherlands;Eredivisie;(WIL);Vangelis Pavlidis;10;0;927;4;ﬁub.83;0.29;26;15;ﬁub.66;Oca.54;2019
+ Netherlands;Eredivisie;(HEE);Henk Veerman;10;0;916;8;Nis.44;0.46;32;14;Mar.32;Oca.45;2019
+ Netherlands;Eredivisie;(SPR);Abdou Harroui;10;0;834;4;Oca.93;0.22;24;13;ﬁub.73;Oca.48;2019
+ Netherlands;Eredivisie;(HER);Rai Vloet;10;0;853;7;Nis.49;0.5;21;9;ﬁub.34;1;2019
+ Netherlands;Eredivisie;(AJA);Lassina Traore;6;4;506;7;Nis.21;0.79;18;8;Mar.38;1.May;2019
+ Netherlands;Eredivisie;(VVV);Georgios Giakoumakis;10;0;911;9;Tem.19;0.75;35;14;Mar.65;Oca.46;2019
+USA;MLS;(TOR);Alex Pozuelo;24;0;2247;9;Au.28;0.35;57;25;ﬁub.41;1.Haz;2020
+USA;MLS;(MIN);Kevin Molino;16;3;1430;11;Haz.32;0.42;43;20;ﬁub.86;Oca.33;2020
+USA;MLS;(RSL);Damir Kreilach;20;1;1872;8;6.Kas;0.31;48;19;ﬁub.44;0.96;2020
+USA;MLS;(LAF);Bradley Wright-Phillips;15;4;1190;8;May.89;0.47;33;15;ﬁub.63;1.ﬁub;2020
+USA;MLS;(LAF);Diego Rossi;19;0;1816;14;Kas.85;0.62;71;34;Mar.71;Oca.78;2020
+USA;MLS;(SOU);Nicolas Lodeiro;21;0;2014;8;Haz.36;0.3;43;19;2.Mar;0.9;2020
+USA;MLS;(SOU);Raul Ruidiaz;18;0;1626;14;Au.56;0.5;58;24;Mar.39;1.Nis;2020
+USA;MLS;(ORL);Daryl Dike;17;2;1482;8;Mar.74;0.24;33;13;2.Ara;0.83;2020
+USA;MLS;(CCR);Gyasi Zardes;22;1;2034;14;Kas.99;0.56;50;25;ﬁub.34;Oca.17;2020
+USA;MLS;(LAG);Cristian Pavon;22;0;2106;10;May.99;0.27;63;25;ﬁub.84;Oca.13;2020
+USA;MLS;(ORL);Chris Mueller;19;5;1726;10;6;0.33;38;20;2.Eyl;1.Oca;2020
+USA;MLS;(MON);Romell Quioto;18;2;1676;9;May.82;0.33;54;23;3.Haz;1.Mar;2020
+USA;MLS;(SOU);Jordan Morris;19;4;1927;11;Au.32;0.41;43;19;2.Ara;0.94;2020
+USA;MLS;(PHI);Kacper Przybylko;24;0;2216;8;Au.63;0.37;56;27;2.Nis;Oca.16;2020
+USA;MLS;(NER);Gustavo Bou;17;4;1701;8;6.Au;0.38;81;28;Nis.52;Oca.56;2020
+USA;MLS;(CHF);Robert Beric;22;1;2063;13;Eyl.99;0.46;62;28;ﬁub.86;Oca.29;2020
+USA;MLS;(TOR);Ayo Akinola;11;5;1195;9;7.Mar;0.58;37;19;ﬁub.94;Oca.51;2020
+USA;MLS;(POR);Jeremy Ebobisse;11;8;1189;8;Mar.63;0.29;33;15;ﬁub.64;1.ﬁub;2020
+USA;MLS;(POR);Diego Valeri;19;4;1864;8;5.Mar;0.27;44;17;ﬁub.24;0.87;2020
+USA;MLS;(SJE);Chris Wondolowski;14;9;1509;8;Tem.31;0.46;35;20;2.ﬁub;Oca.26;2020
+Spain;La Liga;(SEV);Youssef   En-Nesyri;5;4;465;4;Mar.33;0.68;14;4;ﬁub.86;0.82;2020
+Spain;La Liga;(SOC);Portu ;6;5;691;4;Oca.53;0.21;6;4;0.82;0.55;2020
+Spain;La Liga;(RMA);Karim Benzema;8;0;741;4;Nis.91;0.63;27;12;Mar.46;Oca.54;2020
+Spain;La Liga;(VAL);Carlos Soler;6;1;599;4;Mar.34;0.53;8;5;Oca.27;0.79;2020
+Spain;La Liga;(BET);Cristian Tello;7;4;629;4;Oca.92;0.29;22;8;Mar.32;Oca.21;2020
+Spain;La Liga;(SOC);Mikel Oyarzabal;9;2;736;7;Haz.82;0.88;31;16;4;2.Tem;2020
+Spain;La Liga;(EIB);Esteban Burgos;6;1;589;3;ﬁub.85;0.46;5;4;0.81;0.65;2020
+Spain;La Liga;(ALA);Lucas Perez;7;2;637;3;Nis.36;0.65;13;6;Oca.94;0.89;2020
+Spain;La Liga;(BAR);Lionel Messi;8;1;824;4;May.46;0.63;39;19;4.May;ﬁub.19;2020
+Spain;La Liga;(ATL);Joao Felix;6;3;641;5;Mar.85;0.57;21;6;3.Kas;0.89;2020
+Spain;La Liga;(ATL);Luis Suarez;5;1;387;5;3.Mar;0.81;22;8;5.Nis;Oca.96;2020
+Spain;La Liga;(VIL);Paco Alcacer;9;0;693;5;5.Kas;0.7;16;8;ﬁub.19;1.Oca;2020
+Spain;La Liga;(LEV);Morales ;10;0;758;4;ﬁub.71;0.34;17;8;ﬁub.13;1;2020
+Spain;La Liga;(RMA);Federico Valverde;6;2;566;3;Oca.13;0.19;9;5;Oca.51;0.84;2020
+Spain;La Liga;(BAR);Antoine Griezmann;8;1;634;3;Mar.67;0.55;18;8;2.Tem;1.ﬁub;2020
+Spain;La Liga;(CEL);Iago Aspas;11;0;1056;5;Nis.89;0.44;21;12;Oca.89;1.Au;2020
+Spain;La Liga;(EIB);Kike GarcIa;9;1;790;3;ﬁub.83;0.34;19;8;ﬁub.28;0.96;2020
+Spain;La Liga;(GET);Angel Rodriguez;3;6;501;4;2.Haz;0.39;14;7;ﬁub.65;Oca.33;2020
+Spain;La Liga;(BAR);Ansu Fati;6;1;451;4;1.Au;0.38;14;7;ﬁub.95;Oca.47;2020
+Spain;La Liga;(VIL);Gerard Moreno;9;0;822;6;6.Nis;0.74;29;11;Mar.35;Oca.27;2020
+Italy;Serie A;(BOL);Roberto Soriano;9;0;849;5;ﬁub.41;0.27;18;7;2.Oca;0.78;2020
+Italy;Serie A;(SAS);Francesco Caputo;6;0;567;5;Mar.52;0.59;18;9;3.ﬁub;Oca.51;2020
+Italy;Serie A;(CAG);Joao Pedro;9;0;831;6;Mar.41;0.39;21;10;2.Nis;Oca.14;2020
+Italy;Serie A;(ATA);Alejandro Gomez;9;0;643;4;ﬁub.23;0.33;28;11;Nis.14;Oca.63;2020
+Italy;Serie A;(TOR);Andrea Belotti;8;0;754;7;Mar.49;0.44;24;11;3.ﬁub;Oca.39;2020
+Italy;Serie A;(FIO);Gaetano Castrovilli;9;0;755;4;Oca.43;0.18;11;7;Oca.38;0.88;2020
+Italy;Serie A;(CAG);Giovanni Simeone;8;0;664;5;Mar.29;0.47;15;5;ﬁub.15;0.72;2020
+Italy;Serie A;(SAS);Domenico Berardi;8;0;766;4;2.ﬁub;0.25;21;11;2.Haz;Oca.36;2020
+Italy;Serie A;(ROM);Henrikh Mkhitaryan;9;0;825;5;May.82;0.67;30;14;Mar.45;Oca.61;2020
+Italy;Serie A;(ROM);Jordan Veretout;9;0;769;4;Mar.48;0.43;18;7;ﬁub.22;0.86;2020
+Italy;Serie A;(PAR);Gervinho ;8;0;669;4;Oca.97;0.28;13;5;Oca.85;0.71;2020
+Italy;Serie A;(INT);Lautaro MartInez;7;2;656;5;ﬁub.35;0.34;29;11;4.ﬁub;Oca.59;2020
+Italy;Serie A;(ATA);Luis Muriel;3;4;264;4;ﬁub.78;1;20;7;7.ﬁub;ﬁub.52;2020
+Italy;Serie A;(JUV);Cristiano Ronaldo;5;1;397;8;May.31;Oca.27;26;13;Haz.22;3.Kas;2020
+Italy;Serie A;(INT);Romelu Lukaku;6;2;580;7;Tem.27;Oca.19;22;10;3.Haz;Oca.64;2020
+Italy;Serie A;(NAP);Dries Mertens;9;0;616;4;ﬁub.46;0.38;24;11;3.Tem;1.Tem;2020
+Italy;Serie A;(LAZ);Ciro Immobile;6;1;571;5;Mar.73;0.62;22;8;Mar.66;Oca.33;2020
+Italy;Serie A;(SAM);Fabio Quagliarella;8;1;694;5;Nis.46;0.61;23;9;Mar.15;Oca.23;2020
+Italy;Serie A;(ACM);Zlatan Ibrahimovic;6;0;557;10;Tem.92;Oca.35;35;16;May.97;ﬁub.73;2020
+Italy;Serie A;(NAP);Hirving Lozano;9;0;568;4;ﬁub.93;0.49;18;11;3.Oca;Oca.84;2020
+Germany;Bundesliga;(LEV);Lucas Alario;6;1;561;7;3.Tem;0.52;20;11;Mar.39;Oca.86;2020
+Germany;Bundesliga;(FRA);Bas Dost;8;1;732;3;Mar.24;0.42;14;8;Oca.82;1.Nis;2020
+Germany;Bundesliga;(BAY);Serge Gnabry;7;1;626;4;Oca.58;0.24;18;9;ﬁub.73;Oca.37;2020
+Germany;Bundesliga;(WOB);Wout Weghorst;8;1;778;6;May.57;0.68;25;14;3.May;Oca.71;2020
+Germany;Bundesliga;(RBL);Dani Olmo;9;0;834;4;ﬁub.28;0.26;19;8;ﬁub.16;0.91;2020
+Germany;Bundesliga;(KOL);Ellyes Skhiri;8;0;709;3;Oca.87;0.25;6;3;0.8;0.4;2020
+Germany;Bundesliga;(BAY);Thomas Muller;9;0;822;4;3.ﬁub;0.37;13;5;1.May;0.58;2020
+Germany;Bundesliga;(UNB);Max Kruse;7;2;669;6;Nis.44;0.63;13;10;Oca.85;Oca.42;2020
+Germany;Bundesliga;(FRA);Andre Silva;9;0;802;7;Tem.43;0.88;37;16;Nis.38;1.Eyl;2020
+Germany;Bundesliga;(FCA);Andre Hahn;7;2;547;3;Oca.44;0.25;12;6;2.Au;1.Nis;2020
+Germany;Bundesliga;(MAI);Jean-Philippe Mateta;9;0;723;7;6.Oca;0.79;23;12;3.ﬁub;Oca.58;2020
+Germany;Bundesliga;(HOF);Andrej Kramaric;5;0;481;7;Nis.61;0.91;23;14;Nis.54;ﬁub.77;2020
+Germany;Bundesliga;(SVW);Niclas Fullkrug;4;1;293;4;3.ﬁub;0.98;13;7;Nis.22;ﬁub.27;2020
+Germany;Bundesliga;(BMG);Lars Stindl;7;2;567;4;Mar.52;0.59;19;9;Mar.18;Oca.51;2020
+Germany;Bundesliga;(FCA);Daniel Caligiuri;9;0;841;3;0.8;0.09;11;5;Oca.24;0.56;2020
+Germany;Bundesliga;(DOR);Erling Haaland;7;1;683;10;Haz.76;0.94;30;14;Nis.17;Oca.95;2020
+Germany;Bundesliga;(BSC);Jhon Cordoba;5;2;493;3;ﬁub.23;0.43;18;5;Mar.47;0.96;2020
+Germany;Bundesliga;(SCF);Nils Petersen;6;3;608;4;2.Kas;0.33;15;7;ﬁub.34;1.Eyl;2020
+Germany;Bundesliga;(BSC);Matheus Cunha;9;0;857;6;Mar.43;0.38;26;15;ﬁub.88;Oca.66;2020
+Germany;Bundesliga;(BAY);Robert Lewandowski;7;1;672;12;Tem.78;1.Oca;35;17;Nis.95;2.Nis;2020
+France;France Ligue 18;(NAN);Ludovic Blas;11;1;990;4;Oca.88;0.18;19;7;Oca.82;0.67;2020
+France;France Ligue 12;(ANG);Stephane Bahoken;8;2;644;5;Mar.53;0.52;30;14;Nis.43;2.Tem;2020
+France;France Ligue 9;(LYO);Karl Toko;9;1;822;5;May.88;0.68;27;12;3.Ara;Oca.39;2020
+France;France Ligue 10;(MON);Kevin Volland;9;1;709;5;Mar.43;0.46;12;11;Oca.61;Oca.47;2020
+France;France Ligue 3;(MPE);Andy Delort;11;0;902;6;Nis.18;0.44;31;14;Mar.26;Oca.47;2020
+France;France Ligue 4;(LIL);Burak Yilmaz;10;1;903;6;Nis.56;0.48;28;17;ﬁub.95;Oca.79;2020
+France;France Ligue 5;(MET);Ibrahima Niane;6;0;482;6;Mar.45;0.68;21;9;Nis.14;Oca.77;2020
+France;France Ligue 2;(REI);Boulaye Dia;9;1;772;8;May.28;0.65;25;12;3.Au;Oca.48;2020
+France;France Ligue 20;(PSG);Moise Kean;6;0;454;4;3.ﬁub;0.67;14;5;ﬁub.93;1.May;2020
+France;France Ligue 15;(LEN);Ignatius Ganago;6;3;452;4;Mar.33;0.7;14;7;ﬁub.94;Oca.47;2020
+France;France Ligue 8;(BRE);Irvin Cardona;6;5;627;5;ﬁub.71;0.41;21;8;Mar.18;Oca.21;2020
+France;France Ligue 6;(MON);Wissam Ben;10;1;879;6;May.74;0.62;30;8;Mar.24;0.86;2020
+France;France Ligue 14;(MAR);Florian Thauvin;10;0;835;4;ﬁub.99;0.34;21;8;ﬁub.39;0.91;2020
+France;France Ligue 13;(NIC);Amine Gouiri;9;2;903;4;Mar.33;0.35;26;10;ﬁub.74;1.May;2020
+France;France Ligue 16;(LIL);Jonathan Bamba;11;1;1061;4;Oca.68;0.15;25;9;ﬁub.24;0.81;2020
+France;France Ligue 17;(STR);Ludovic Ajorque;11;0;1008;4;Mar.61;0.34;17;8;1.Haz;0.75;2020
+France;France Ligue 1;(PSG);Kylian Mbappe-Lottin;7;1;610;9;Haz.81;1.Haz;33;20;May.14;3.Kas;2020
+France;France Ligue 19;(DIJ);Mama Balde;8;0;669;4;4.Oca;0.57;30;10;Nis.26;Oca.42;2020
+France;France Ligue 11;(LYO);Memphis Depay;9;3;903;5;Nis.75;0.5;30;10;Mar.16;1.May;2020
+France;France Ligue 7;(LEN);Gael Kakuta;10;1;786;5;Nis.14;0.5;18;6;ﬁub.18;0.73;2020
+England;Premier League;(SOU);James Ward-Prowse;10;0;960;4;0.71;0.07;10;7;0.99;0.69;2020
+England;Premier League;(MNU);Bruno Fernandes;9;0;809;7;May.45;0.64;30;14;Mar.52;Oca.64;2020
+England;Premier League;(EVE);Dominic Calvert-Lewin;10;0;940;10;7.Ara;0.72;32;18;Mar.23;Oca.82;2020
+England;Premier League;(CHE);Timo Werner;10;0;876;4;Mar.69;0.4;23;10;ﬁub.49;1.Au;2020
+England;Premier League;(NEW);Callum Wilson;9;0;835;7;6.May;0.74;18;8;2.May;0.91;2020
+England;Premier League;(LIV);Diogo Jota;5;3;530;5;ﬁub.51;0.45;20;11;Mar.58;Oca.97;2020
+England;Premier League;(CRY);Wilfried Zaha;8;0;779;5;Nis.35;0.53;18;7;2.ﬁub;0.85;2020
+England;Premier League;(AVL);Jack Grealish;9;0;872;5;ﬁub.85;0.31;26;9;ﬁub.83;0.98;2020
+England;Premier League;(WOL);Raul Jimenez;10;0;872;4;3.Mar;0.36;26;10;ﬁub.83;1.Eyl;2020
+England;Premier League;(WHU);Jarrod Bowen;10;0;845;4;ﬁub.94;0.33;22;5;ﬁub.47;0.56;2020
+England;Premier League;(LEE);Patrick Bamford;10;0;898;7;Tem.28;0.77;40;17;Nis.23;1.Au;2020
+England;Premier League;(LIV);Mohamed Salah;9;0;831;8;6.Ara;0.7;35;15;4;Oca.71;2020
+England;Premier League;(LEI);Jamie Vardy;8;1;780;8;8.Tem;1.Haz;21;15;ﬁub.56;Oca.83;2020
+England;Premier League;(TOT);Harry Kane;10;0;956;7;Haz.64;0.66;39;15;Mar.88;Oca.49;2020
+England;Premier League;None;Danny Ings ;7;0;662;5;ﬁub.58;0.37;15;9;ﬁub.15;Oca.29;2020
+England;Premier League;(BHA);Neal Maupay;9;0;786;4;Haz.54;0.79;25;11;3.ﬁub;Oca.33;2020
+England;Premier League;(AVL);Ollie Watkins;9;0;872;6;Haz.43;0.7;22;9;2.Nis;0.98;2020
+England;Premier League;(LIV);Sadio Mane;8;1;785;4;Nis.88;0.59;27;13;Mar.27;Oca.57;2020
+England;Premier League;(MNC);Riyad Mahrez;7;0;612;4;Oca.93;0.3;21;10;Mar.26;Oca.55;2020
+England;Premier League;(TOT);Son Heung-Min;10;0;861;9;3.Eyl;0.43;20;12;ﬁub.21;Oca.32;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Luciano ;16;3;1588;11;6.ﬁub;0.36;37;17;ﬁub.21;1.ﬁub;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CEA);Vinicius ;16;1;1348;7;May.25;0.37;51;24;Mar.59;Oca.69;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAN);Marinho ;17;2;1662;13;Tem.52;0.43;58;26;Mar.32;Oca.49;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(PAL);Raphael Veiga;10;4;914;6;Mar.37;0.35;27;11;ﬁub.81;Oca.14;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(PAL);Luiz Adriano;14;3;1235;7;Haz.24;0.48;21;13;Oca.62;1;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CEA);Cleber ;17;3;1336;5;Haz.75;0.48;41;13;ﬁub.92;0.92;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(VDG);German Cano;19;0;1733;10;10.Mar;0.55;37;22;2.Mar;Oca.21;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(GRE);Pepe;15;3;1397;7;May.44;0.37;32;13;ﬁub.18;0.88;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(SAP);Brenner None;9;6;1063;6;7.May;0.67;36;14;Mar.22;Oca.25;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(BOT);Matheus Babi;17;3;1709;6;May.94;0.33;32;14;Oca.78;0.78;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLU);Nene ;18;0;1434;7;Nis.38;0.29;35;13;ﬁub.32;0.86;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Bruno Henrique;15;1;1412;5;Au.92;0.6;45;18;3.Mar;Oca.21;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(INT);Thiago Galhardo;16;5;1605;15;12.May;0.74;53;27;Mar.14;1.Haz;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CAM);Keno ;19;3;1829;10;Kas.36;0.59;72;31;Mar.74;Oca.61;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(RBB);Alerrandro ;10;2;861;5;6.Tem;0.67;24;11;ﬁub.65;Oca.21;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FOR);Wellington Paulista;13;8;1208;6;May.34;0.42;24;12;Oca.89;0.94;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(RBB);Claudinho ;19;1;1657;10;Nis.19;0.24;53;19;3.Nis;1.Eyl;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CFC);Robson;22;0;1937;6;Au.56;0.42;53;17;2.Haz;0.83;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(FLA);Pedro ;12;6;1207;10;Eki.42;0.82;46;25;Mar.62;Oca.97;2020
+Brazil;Campeonato Brasileiro S√É¬©rie A;(CAP);Renato Kayzer;17;1;1639;7;Tem.59;0.44;46;21;ﬁub.67;Oca.22;2020
+ Netherlands;Eredivisie;(MNU);Donny van de Beek;22;1;2023;8;4.Eyl;0.23;44;16;2.Tem;0.75;2020
+ Netherlands;Eredivisie;(AZA);Teun Koopmeiners;25;0;2336;11;Eyl.34;0.38;35;18;Oca.42;0.73;2020
+ Netherlands;Eredivisie;Aitor;Cantalapiedra ;21;0;1933;7;Eyl.16;0.45;58;23;ﬁub.85;Oca.13;2020
+ Netherlands;Eredivisie;(FEY);Bryan Linssen;25;0;2256;14;Au.31;0.35;92;39;Mar.87;Oca.64;2020
+ Netherlands;Eredivisie;Tim;Matavz ;24;1;2157;12;9.Au;0.4;55;28;ﬁub.42;Oca.23;2020
+ Netherlands;Eredivisie;(SEV);Oussama Idrissi;25;0;2047;13;7.Kas;0.33;67;34;3.Kas;Oca.58;2020
+ Netherlands;Eredivisie;(AJA);Dusan Tadic;25;0;2287;11;Kas.31;0.47;63;26;ﬁub.62;1.Au;2020
+ Netherlands;Eredivisie;(FEY);Steven Berghuis;24;0;2226;15;13.36;0.57;89;44;3.Au;Oca.88;2020
+ Netherlands;Eredivisie;(CSK);Chidera Ejuke;24;1;2147;9;Haz.55;0.29;60;25;ﬁub.65;1.Kas;2020
+ Netherlands;Eredivisie;(AZA);Myron Boadu;24;0;2099;14;13.26;0.6;60;30;ﬁub.72;Oca.36;2020
+ Netherlands;Eredivisie;(AJA);Klaas-Jan Huntelaar;6;12;938;9;Haz.91;0.7;32;17;Mar.24;Oca.72;2020
+ Netherlands;Eredivisie;(WIL);Vangelis Pavlidis;25;0;2265;11;Ara.64;0.53;70;31;ﬁub.94;1.Mar;2020
+ Netherlands;Eredivisie;(EMM);Michael de Leeuw;26;0;2383;9;Au.28;0.33;51;23;2.Mar;0.92;2020
+ Netherlands;Eredivisie;(PSV);Donyell Malen;14;0;1245;11;Au.91;0.68;59;32;4.May;ﬁub.44;2020
+ Netherlands;Eredivisie;(RZA);Haris Vuckic;23;2;2194;11;6;0.26;38;17;Oca.65;0.74;2020
+ Netherlands;Eredivisie;(UTR);Gyrano Kerk;24;0;2155;10;Tem.49;0.33;50;18;2.ﬁub;0.79;2020
+ Netherlands;Eredivisie;(AJA);Quincy Promes;18;2;1573;12;Eyl.77;0.59;56;30;Mar.38;Oca.81;2020
+ Netherlands;Eredivisie;(PSV);Denzel Dumfries;25;0;2363;7;May.72;0.23;45;14;Oca.81;0.56;2020
+ Netherlands;Eredivisie;None;Cyriel Dessers ;26;0;2461;15;14.51;0.56;84;43;Mar.24;Oca.66;2020
+ Netherlands;Eredivisie;(PSV);Cody Gakpo;14;11;1557;7;Nis.43;0.27;38;15;ﬁub.32;0.92;2020
